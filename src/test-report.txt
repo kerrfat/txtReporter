@@ -1,29 +1,32 @@
 Test Suites: 0 failed, 1 passed, 1 total
 Tests:       0 failed, 20 passed, 20 total
 Snapshots:   0 total
-Time:        1.695s, estimated 2s
+Time:        1.861s, estimated 2s
 
 
 C:\Users\Kfateh-PC\Desktop\jest\package\tests\test1.spec.ts
+- Name of the group
+  - Nested Suite 1
     - PASSED, Test 1, 2ms
     - PASSED, Test 2, 0ms
     - PASSED, Test 3, 0ms
     - PASSED, Test 4, 0ms
-    - PASSED, Test 5, 0ms
+    - PASSED, Test 5, 1ms
     - PASSED, Test 6, 0ms
     - PASSED, Test 7, 0ms
     - PASSED, Test 8, 0ms
     - PASSED, Test 9, 0ms
     - PASSED, Test 10, 0ms
+  - Nested Suite 2
     - PASSED, Test 11, 0ms
-    - PASSED, Test 12, 1ms
+    - PASSED, Test 12, 0ms
     - PASSED, Test 13, 0ms
     - PASSED, Test 14, 0ms
     - PASSED, Test 15, 0ms
     - PASSED, Test 16, 0ms
-    - PASSED, Test 17, 1ms
-    - PASSED, Test 18, 0ms
-    - PASSED, Test 19, 1ms
+    - PASSED, Test 17, 0ms
+    - PASSED, Test 18, 1ms
+    - PASSED, Test 19, 0ms
     - PASSED, Test 20, 0ms
 
 
